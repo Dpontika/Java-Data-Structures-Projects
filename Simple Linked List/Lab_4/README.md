@@ -2,9 +2,7 @@
 
 
 
-A Java implementation of a singly linked list data structure that demonstrates fundamental linked list operations and showcases how to efficiently 
-
-find minimum and maximum values in a collection of student records.
+A Java implementation of a singly linked list data structure that demonstrates fundamental linked list operations and showcases how to efficiently find minimum and maximum values in a collection of student records.
 
 
 
