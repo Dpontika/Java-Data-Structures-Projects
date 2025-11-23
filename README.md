@@ -6,18 +6,6 @@ This repository contains a collection of Java projects focused on implementing c
 
 
 
-### **Academic Context**
-
-
-
-Institution: International Hellenic University
-
-Department: Information and Electronic Engineering
-
-Course: Data Structures with Java
-
-
-
 ### **Implemented Data Structures**
 
 
