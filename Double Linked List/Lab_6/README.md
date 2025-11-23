@@ -2,9 +2,7 @@
 
 
 
-A comprehensive Java implementation of a doubly linked list data structure that demonstrates advanced linked list concepts including position-based operations, inheritance-based node design, and sorted list maintenance. 
-
-The implementation showcases how doubly linked lists enable efficient forward and backward traversal compared to singly linked lists.
+A comprehensive Java implementation of a doubly linked list data structure that demonstrates advanced linked list concepts including position-based operations, inheritance-based node design, and sorted list maintenance. The implementation showcases how doubly linked lists enable efficient forward and backward traversal compared to singly linked lists.
 
 
 
